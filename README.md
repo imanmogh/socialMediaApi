@@ -9,7 +9,6 @@ a social network web application where users can share their thoughts, react to 
 
 
 ## Usage
-/Users/imanmoghaddas/Desktop/Coding-bootcamp/Challenges/18-socialMediaApi/socialMediaApi/assets/socialMediaAPI_Video.mp4
 
 ## Credits
 https://github.com/imanmogh/socialMediaApi
